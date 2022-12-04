@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Josefin+Sans:wght@300&family=Space+Mono:wght@700&display=swap');
+
+
+div {
+	color: white;
+	text-align: center;
+	background-color: rgb(59, 59, 59);
+	height: 580px;
+	width: 24%;
+	border: 2px solid rgb(72, 72, 72);
+	float: left;
+	border-radius: 20px;
+	padding: 5px;
+	box-shadow: 0px 22px 43px -14px rgba(255, 255, 255, 0.352);
+}
+
+h1 {
+	font-family: 'Space Mono', monospace;
+	font-weight: bolder;
+	width: 100%;
+	height: 50px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	text-align: center;
+	color: rgb(226, 226, 226);
+	border-radius: 20px;
+}
+h2{
+	font-family: 'Space Mono', monospace;
+	text-align: center;
+	color: rgb(255, 255, 255);
+	font-size: larger;
+}
+h4{
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
+	color: rgb(255, 255, 255);
+	margin-top: -15px;
+}
+img{
+	padding-top: 5%;
+	width: 80%;
+	height: 350px;
+	border-radius: 20px;
+}
+p{
+	width: 88%;
+	text-align: justify;
+	margin-left: 5%;
+	font-family: Arial, Helvetica, sans-serif;
+	color: rgb(209, 208, 208);
+	
+}
